@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @SrAquino
-- 👀 Interested in to be rich...
-- 🌱 Currently studying computer engineering...
-    - ☕🐍 C, C++, C#, Java, Python, Arduino, JavaScript, Flutter, Dart
-- 💞️ and looking to collaborate on anything...
-- 📫 How to reach me: 
-    - 📷 @_sraquino on instagram
-    - 📞 +55 53 9 99344665 is my whatsapp
-    - 📩 douglasaquino4@gmail.com is my personal e-mail
+👋 Hi, I'm Douglas Aquino (@SrAquino)
+
+🎓 Master’s in Computer Science (in progress)
+💡 Postgraduate in IoT Engineering  and graduate in Computer Engineering
+
+💻 I work with C, C++, C#, Java, Python, JavaScript, Flutter, Dart, Arduino  
+🌱 Focused on embedded systems, IoT, and applied AI
+
+🤝 Open to collaborations in research, teaching, and development
+
+📬 Reach me:  
+📷 Instagram: @_sraquino  
+💬 WhatsApp: +55 53 9 9934-4665  
+✉️ Email: douglasaquino4@gmail.com
+
+ 
+
+
+
+
+
+
+
+
