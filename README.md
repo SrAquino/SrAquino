@@ -67,4 +67,4 @@ Git, GitHub, Linux, Windows e Vercel
 
 - [LinkedIn](https://www.linkedin.com/in/douglas-aquino-279026187/)
 - [Portfólio](COLOQUE_AQUI_O_LINK_DO_PORTFOLIO)
-- E-mail: `COLOQUE_AQUI_SEU_EMAIL_PROFISSIONAL`
+- E-mail: douglasaquino4@gmail.com
